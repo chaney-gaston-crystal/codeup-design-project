@@ -1,0 +1,16 @@
+:root {
+    --page-background: #E6E6E6;
+    --navbar-background: #F0F0F0;
+    --design-icon: #EB9D3A;
+    --develop-icon: #DEA03D;
+    --support-icon: #7CB06c;
+    --host-icon: #00ABA9;
+}
+
+body {
+    background-color: var(--page-background);
+}
+
+nav {
+    background-color: var(--navbar-background);
+}
