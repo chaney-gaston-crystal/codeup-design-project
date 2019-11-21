@@ -74,3 +74,44 @@ nav {
     box-sizing: border-box;
     display: block;
 }
+
+/*test css*/
+.small-img {
+    width: 50px;
+    height: 50px;
+    /*justify-content: left;*/
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+}
+
+/*h1 h2 h3 h4 h5{*/
+/*    font-family: 'Anton', sans-serif;*/
+/*}*/
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 64px;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 48px;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Anton', sans-serif;
+    font-size: 32px;
+}
+
+h5 {
+    font-family: 'Anton', sans-serif;
+    font-size: 28px;
+}
+
