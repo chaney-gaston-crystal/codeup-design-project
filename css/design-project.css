@@ -36,7 +36,8 @@ body {
     /*display: flex;*/
     /*z-index: 1000;*/
     position: absolute;
-    top: 10px;
+    /*top: 5px;*/
+    /*bottom: 5px;*/
     /*background-color: var(--navbar-background);*/
     /*width: 100%;*/
     /*margin-left: 300px;*/
