@@ -22,11 +22,13 @@ body {
     font-family: 'Abel', sans-serif;
 }
 #logo {
-    display: flex;
-    z-index: 1000;
-    /*position: a*/
+    /*display: flex;*/
+    /*z-index: 1000;*/
+    position: absolute;
+    top: 10px;
     /*background-color: var(--navbar-background);*/
     /*width: 100%;*/
+    margin-left: 300px;
 }
 .design-button {
     background: red;
@@ -128,5 +130,9 @@ h4 {
 h5 {
     font-family: 'Anton', sans-serif;
     font-size: 28px;
+}
+
+#nav-bg {
+    background-color: var(--navbar-background);
 }
 
