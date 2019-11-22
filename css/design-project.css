@@ -11,9 +11,9 @@ body {
     background-color: var(--page-background);
 }
 
-nav {
-    background-color: var(--navbar-background);
-}
+/*nav {*/
+/*    background-color: var(--navbar-background);*/
+/*}*/
 #design {
     font-family: 'Abel', sans-serif;
     font-weight: lighter;
@@ -24,6 +24,9 @@ nav {
 #logo {
     display: flex;
     z-index: 1000;
+    /*position: a*/
+    /*background-color: var(--navbar-background);*/
+    /*width: 100%;*/
 }
 .design-button {
     background: red;
